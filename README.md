@@ -17,6 +17,40 @@ I am a Senior Financial Analyst at the City of Boston Planning Department, worki
 - Maintain reconciliation and reporting processes covering capital projects, Construction in Progress, fixed assets, revenue controls, and cost allocation
 - Partner across Accounting, Procurement, Real Estate, Operations, and departmental leadership
 
+## Featured projects
+
+The following portfolio projects are currently in development. Each will use public, synthetic, or appropriately anonymized data.
+
+### 1. Public-Sector FP&A and Budget Dashboard
+
+**Status:** Planned  
+**Tools:** Power BI, Excel, Power Query  
+An executive-ready dashboard for budget-to-actual performance, forecasts, spending trends, commitments, and variance drivers across a multi-division organization.
+
+### 2. ERP Financial Reconciliation Automation
+
+**Status:** Planned  
+**Tools:** Python, SQL, Excel  
+A repeatable reconciliation workflow that connects general-ledger balances, open commitments, invoices, deposits, and exception reporting, with validation checks and an audit trail.
+
+### 3. Capital Projects and CIP Analytics
+
+**Status:** Planned  
+**Tools:** Power BI, SQL, Excel  
+A capital-project monitoring model covering budgets, expenditures, open purchase orders, project status, Construction in Progress, capitalization readiness, and fixed-asset reconciliation.
+
+### 4. SAP S/4HANA Finance Process Lab
+
+**Status:** Planned  
+**Tools:** SAP S/4HANA concepts, process maps, data models  
+A documented finance-process portfolio connecting procurement, goods receipts, account assignment, general-ledger impacts, cost-center reporting, and management controls.
+
+### 5. Flash-Crash Market Volatility Analysis
+
+**Status:** Planned  
+**Tools:** Python, pandas, NumPy, SciPy, Matplotlib  
+A reproducible extension of my master's research using public market data, the Yang-Zhang volatility estimator, hypothesis testing, and visual comparisons across U.S. market-cap indexes.
+
 ## Research
 
 ### Assessing the effect of flash crashes on the U.S. Stock Market
