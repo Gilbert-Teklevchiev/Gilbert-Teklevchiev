@@ -43,9 +43,24 @@ My work focuses on turning complex financial and operational data into reliable 
 
 ## Education
 
-- **Boston University, Questrom School of Business** — [Part-Time Flex MBA, Management Science](https://www.bu.edu/questrom/graduate-programs/mba-programs/part-time-mba/academics/management-science-major/), expected May 2027
-- **LUT University** — MS in Economics and Business Administration, Strategic Finance and Analytics, 2022
-- **University of Massachusetts Boston** — BS in Management, Finance and International Management, 2019
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.bu.edu/questrom/graduate-programs/mba-programs/full-time-mba/"><img src="https://www.bu.edu/questrom/wp-content/themes/amp-theme/dist/images/blocks/header/logo.png" alt="Boston University Questrom School of Business" height="55"></a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.lut.fi/en/studies/business/masters-programmes-business-administration/masters-programme-strategic-finance-and"><img src="https://www.lut.fi/themes/custom/lut/images/icons/favicons/apple-touch-icon.png" alt="LUT University" height="55"></a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.umb.edu/academics/program-finder/finance-bs/"><img src="https://www.umb.edu/media/umassboston/content-assets/images/branding-assets/UMass-Boston-Official-Logo.svg" alt="University of Massachusetts Boston" height="55"></a>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Boston University</strong><br>Questrom School of Business<br><a href="https://www.bu.edu/questrom/graduate-programs/mba-programs/full-time-mba/">MBA, Management Science</a><br>Expected May 2027</td>
+<td align="center"><strong>LUT University</strong><br><a href="https://www.lut.fi/en/studies/business/masters-programmes-business-administration/masters-programme-strategic-finance-and">MS, Strategic Finance and Analytics</a><br>2022</td>
+<td align="center"><strong>University of Massachusetts Boston</strong><br><a href="https://www.umb.edu/academics/program-finder/finance-bs/">BS, Finance and International Management</a><br>2019</td>
+</tr>
+</table>
 
 ## Research
 
